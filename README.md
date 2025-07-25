@@ -1,77 +1,40 @@
-# ¡Hola! 👋 Soy Álvaro
+<h1 align="center">Hi 👋, I'm Álvaro Novelo</h1>
+
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Estudiante+de+Programaci%C3%B3n;Frontend+Developer+en+formaci%C3%B3n;Apasionado+por+la+IA;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Frontend+Developer+in+training;Always+learning+something+new" alt="Typing SVG" />
 </div>
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-Soy un **estudiante apasionado por la programación** con un enfoque especial en el **desarrollo frontend** y la **inteligencia artificial**. Me encanta crear soluciones innovadoras y estoy constantemente aprendiendo nuevas tecnologías para mejorar mis habilidades.
+- 🎓 Software Development and Digital Business student at Tecnológico de Software.
+- 💻 Passionate about technology, with the goal of creating solutions that improve the future.
+- 📚 This profile showcases my first steps in development, databases, and mobile development.
 
-- 🎓 **Estudiante** en constante aprendizaje
-- 💻 **Enfoque actual**: Desarrollo Frontend y AI
-- 🌱 **Aprendiendo**: React, JavaScript moderno, Machine Learning
-- 🎯 **Objetivo**: Convertirme en un desarrollador frontend especializado en IA
-- ⚡ **Dato curioso**: Me fascina cómo la IA puede transformar las interfaces de usuario
+<h3 align="left">Connect with me:</h3>
 
-## 🛠️ Tecnologías y Herramientas
+- 📫 How to reach me *alvaro.novelo@tecdesoftware.edu.mx*
 
-### 💻 Lenguajes de Programación
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/%c3%a1lvaro-novelo-escalante-6ab585337/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%c3%a1lvaro-novelo-escalante-6ab585337/" height="30" width="40" /></a>
+</p>
 
-### 🎨 Frontend (En desarrollo)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### 🤖 AI/ML (Aprendiendo)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 🛠️ Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## 🎯 Featured Projects
 
-## 📊 Estadísticas de GitHub
+### 📱 Market App  
+**Technology:** Java  
+A market application developed as part of my studies, focused on object-oriented programming and best development practices.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alvaronov19&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
+### 🍩 Donut App Backend  
+**Technology:** Java  
+Backend for a donut app, implementing applied programming concepts and software architecture.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaronov19&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+### 🎓 Donut App  
+**Technology:** Dart/Flutter  
+Academic project demonstrating mastery of fundamental OOP concepts and design patterns.
 
-## 🎯 Proyectos Destacados
 
-### 📱 Market App
-**Tecnología**: Java  
-Una aplicación de mercado desarrollada como parte de mis estudios, enfocada en la programación orientada a objetos y buenas prácticas de desarrollo.
-
-### 🍩 Donut App Backend
-**Tecnología**: Java  
-Backend para una aplicación de donuts, implementando conceptos de programación aplicada y arquitectura de software.
-
-### 🎓 Programación Orientada a Objetos
-**Tecnología**: Python  
-Proyecto académico que demuestra el dominio de conceptos fundamentales de POO y patrones de diseño.
-
-## 🌟 Mi Trayectoria de Aprendizaje
-
-```mermaid title="Mi Roadmap de Desarrollo" type="diagram"
-graph LR
-    A["🎓 Fundamentos<br/>Python, Java, C++"] --> B["💻 Frontend<br/>HTML, CSS, JS"]
-    B --> C["⚛️ React<br/>Componentes y Hooks"]
-    C --> D["🤖 AI Integration<br/>APIs y ML Models"]
-    D --> E["🚀 Full Stack<br/>Frontend + AI"]
-    
-    style A fill:#e1f5fe
-    style B fill:#f3e5f5
-    style C fill:#e8f5e8
-    style D fill:#fff3e0
-    style E fill:#fce4ec
